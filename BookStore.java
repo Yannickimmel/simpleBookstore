@@ -1,10 +1,7 @@
 
 import java.util.Scanner;
 
-/**
- * This class represents a BookStore management system.
- * Users can check inventory, manage members, make purchases, and more.
- */
+
 public class BookStore {
 
     public static void main(String[] args) {
